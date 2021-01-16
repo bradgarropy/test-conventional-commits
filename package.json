@@ -1,11 +1,12 @@
 {
   "name": "test-conventional-commits",
-  "version": "1.1.0",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "commit": "cz",
-    "release": "standard-version"
+    "release": "standard-version",
+    "semantic-release": "semantic-release"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +17,11 @@
     "commitizen": "^4.2.2",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^4.3.7",
+    "semantic-release": "^17.3.2",
     "standard-version": "^9.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradgarropy/test-conventional-commits.git"
   }
 }
