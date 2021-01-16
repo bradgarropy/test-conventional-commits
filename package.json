@@ -6,7 +6,7 @@
   "scripts": {
     "commit": "cz",
     "release": "standard-version",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release --dry-run"
   },
   "keywords": [],
   "author": "",
