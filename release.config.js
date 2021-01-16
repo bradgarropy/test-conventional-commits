@@ -1,5 +1,5 @@
 const config = {
-    "dryRun": false,
+    "dryRun": true,
     "plugins": [
         ["@semantic-release/commit-analyzer", {
             preset: "conventionalcommits",
@@ -24,8 +24,8 @@ const config = {
                 "changelogFile": "changelog.md"
             }
         ],
-        // "@semantic-release/npm",
-        // "@semantic-release/github"
+        "@semantic-release/npm",
+        "@semantic-release/github"
     ]
 }
 
