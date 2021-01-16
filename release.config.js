@@ -1,5 +1,5 @@
 const config = {
-    "dryRun": true,
+    "dryRun": false,
     "plugins": [
         ["@semantic-release/commit-analyzer", {
             preset: "conventionalcommits",
