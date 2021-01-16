@@ -18,6 +18,12 @@ const config = {
             ]
         }],
         "@semantic-release/release-notes-generator",
+        [
+            "@semantic-release/changelog",
+            {
+                "changelogFile": "changelog.md"
+            }
+        ],
         // "@semantic-release/npm",
         // "@semantic-release/github"
     ]
