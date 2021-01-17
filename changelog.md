@@ -1,3 +1,10 @@
+## [2.1.0](https://github.com/bradgarropy/test-conventional-commits/compare/v2.0.2...v2.1.0) (2021-01-17)
+
+
+### Features
+
+* **pr:** testing what happens with a pr ([56b7870](https://github.com/bradgarropy/test-conventional-commits/commit/56b78709270f8bb0acce9df97fc68bc3ffaf4067))
+
 ### [2.0.2](https://github.com/bradgarropy/test-conventional-commits/compare/v2.0.1...v2.0.2) (2021-01-17)
 
 
