@@ -19,8 +19,7 @@
         "commitizen": "^4.2.2",
         "cz-conventional-changelog": "^3.3.0",
         "husky": "^4.3.7",
-        "semantic-release": "^17.3.2",
-        "standard-version": "^9.1.0"
+        "semantic-release": "^17.3.2"
     },
     "repository": {
         "type": "git",
