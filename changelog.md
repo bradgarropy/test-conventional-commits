@@ -1,3 +1,11 @@
+## [2.2.0](https://github.com/bradgarropy/test-conventional-commits/compare/v2.1.0...v2.2.0) (2021-01-17)
+
+
+### Features
+
+* **feature:** add a second feature ([dd8decc](https://github.com/bradgarropy/test-conventional-commits/commit/dd8decc0a8be3ac5839b52b5925641cf7e923087))
+* **feature:** first feature ([83fc614](https://github.com/bradgarropy/test-conventional-commits/commit/83fc6140486d23965fea56d820dbe15ed0e32dac))
+
 ## [2.1.0](https://github.com/bradgarropy/test-conventional-commits/compare/v2.0.2...v2.1.0) (2021-01-17)
 
 
