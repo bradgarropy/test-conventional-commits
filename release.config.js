@@ -18,6 +18,9 @@ const config = {
                     {type: "chore", release: "patch"},
                     {type: "revert", release: "patch"},
                 ],
+                parserOpts: {
+                    noteKeywords: ["BREAKING CHANGE", "BREAKING CHANGES"],
+                },
             },
         ],
         [
