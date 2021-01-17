@@ -1,3 +1,19 @@
+## [1.3.0](https://github.com/bradgarropy/test-conventional-commits/compare/v1.2.0...v1.3.0) (2021-01-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **fjkldsafjlak:** describing the breaking change
+* **break:** fjdsklafj;lasjfkldajflkda
+
+### Features
+
+* **break:** fkdlsajflkasjld ([021a2b6](https://github.com/bradgarropy/test-conventional-commits/commit/021a2b6d02bf02333324e8a1ce2cb56ac397b606))
+* **fjkldsafjlak:** subject of teh breaking change ([3e2bdab](https://github.com/bradgarropy/test-conventional-commits/commit/3e2bdab919dd66c2ef0092d869bbdbbbf61a5bc6))
+
+
+* **break:** this one has a breaking change ([7d80735](https://github.com/bradgarropy/test-conventional-commits/commit/7d80735e49d1c2cbaf9d57a520465128d3a76fce))
+
 ## [1.2.0](https://github.com/bradgarropy/test-conventional-commits/compare/v1.1.0...v1.2.0) (2021-01-17)
 
 
