@@ -17,7 +17,12 @@ const config = {
                 {type: "revert", release: "patch"},
             ]
         }],
-        "@semantic-release/release-notes-generator",
+        [
+            "@semantic-release/release-notes-generator",
+            {
+                "preset": "conventionalcommits",
+            }
+        ],
         [
             "@semantic-release/changelog",
             {
@@ -28,7 +33,7 @@ const config = {
         [
             "@semantic-release/git", {
                 "assets": ["changelog.md", "package.json", "package-lock.json"],
-                "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+                "message": "chore(release): ${nextRelease.version} [skip ci]"
             }
         ],
         "@semantic-release/github"
