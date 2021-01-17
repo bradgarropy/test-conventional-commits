@@ -1,3 +1,10 @@
+### [2.0.1](https://github.com/bradgarropy/test-conventional-commits/compare/v2.0.0...v2.0.1) (2021-01-17)
+
+
+### Improvements
+
+* **release:** add sections for all commit types ([00a24c5](https://github.com/bradgarropy/test-conventional-commits/commit/00a24c521421e0bf0955f36baa6ed538d5054e5b))
+
 ## [2.0.0](https://github.com/bradgarropy/test-conventional-commits/compare/v1.3.1...v2.0.0) (2021-01-17)
 
 
