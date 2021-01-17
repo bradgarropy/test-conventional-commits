@@ -1,3 +1,13 @@
+### [1.3.1](https://github.com/bradgarropy/test-conventional-commits/compare/v1.3.0...v1.3.1) (2021-01-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **break:** now you have to specify breaking change or breaking changes if you want a major
+version bump.
+
+* **break:** add parser opts ([3f5a4c8](https://github.com/bradgarropy/test-conventional-commits/commit/3f5a4c8593e48db34c66e7ee533a012fe8282567))
+
 ## [1.3.0](https://github.com/bradgarropy/test-conventional-commits/compare/v1.2.0...v1.3.0) (2021-01-17)
 
 
