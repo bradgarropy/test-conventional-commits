@@ -1,3 +1,23 @@
+## [1.1.0](https://github.com/bradgarropy/test-conventional-commits/compare/v1.0.9...v1.1.0) (2021-01-17)
+
+
+### Features
+
+* **feature:** new autosave feature ([b9f95b7](https://github.com/bradgarropy/test-conventional-commits/commit/b9f95b7021dda756ad20513a4931ae351634aa67))
+
+
+### Bug Fixes
+
+* **bug:** fix a nasty bug ([3426ec6](https://github.com/bradgarropy/test-conventional-commits/commit/3426ec6c3d57a6f96fefdb844acaecb3be778ec0))
+
+
+* **component:** refactor some stuff ([2a7cb9d](https://github.com/bradgarropy/test-conventional-commits/commit/2a7cb9da7bbaa5e43aae50e63c8b521a0e0f8e58))
+* **css:** update css ([613e3bd](https://github.com/bradgarropy/test-conventional-commits/commit/613e3bdc3400a0141abbf4ad05cab2440929d5f8))
+* **format:** add prettier ([b6ccdc9](https://github.com/bradgarropy/test-conventional-commits/commit/b6ccdc97c3b6b43d49a6c302569fd938cadc09e9))
+* **merge:** merge in master ([4301d96](https://github.com/bradgarropy/test-conventional-commits/commit/4301d965484deffcb4d33b6f07578167fd6d99b1))
+* **readme:** update readme ([e2cf3d2](https://github.com/bradgarropy/test-conventional-commits/commit/e2cf3d29fbe851363477068c0dcabdf2e7aa5e1a))
+* **test:** write some tests ([d0adaf5](https://github.com/bradgarropy/test-conventional-commits/commit/d0adaf50900daeb20dcba967334b4537c6643887))
+
 ### [1.0.9](https://github.com/bradgarropy/test-conventional-commits/compare/v1.0.8...v1.0.9) (2021-01-17)
 
 
