@@ -24,8 +24,8 @@ const config = {
                 "changelogFile": "changelog.md"
             }
         ],
-        "@semantic-release/git",
         "@semantic-release/npm",
+        "@semantic-release/git",
         "@semantic-release/github"
     ]
 }
