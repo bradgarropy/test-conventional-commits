@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/bradgarropy/test-conventional-commits/compare/v1.1.0...v1.2.0) (2021-01-17)
+
+
+### Features
+
+* **api:** new api layout ([e8b649f](https://github.com/bradgarropy/test-conventional-commits/commit/e8b649f64ccc8e05553671ea19f01c5868fe63cd))
+
 ## [1.1.0](https://github.com/bradgarropy/test-conventional-commits/compare/v1.0.9...v1.1.0) (2021-01-17)
 
 
