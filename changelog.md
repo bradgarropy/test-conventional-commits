@@ -1,3 +1,10 @@
+### [2.0.2](https://github.com/bradgarropy/test-conventional-commits/compare/v2.0.1...v2.0.2) (2021-01-17)
+
+
+### Improvements
+
+* **release:** remove standard version ([9417626](https://github.com/bradgarropy/test-conventional-commits/commit/9417626335f6da42fb7e02d2161b39d4c2e9bf1b))
+
 ### [2.0.1](https://github.com/bradgarropy/test-conventional-commits/compare/v2.0.0...v2.0.1) (2021-01-17)
 
 
