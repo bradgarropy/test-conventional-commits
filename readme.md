@@ -19,3 +19,4 @@ testing pr flow
 testing one commit
 testing another commit
 first new feature
+second new feature
