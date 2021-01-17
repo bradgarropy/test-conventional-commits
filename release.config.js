@@ -21,6 +21,12 @@ const config = {
             "@semantic-release/release-notes-generator",
             {
                 "preset": "conventionalcommits",
+                "parserOpts": {
+                    "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
+                },
+                "writerOpts": {
+                    "commitsSort": ["subject", "scope"]
+                }
             }
         ],
         [
