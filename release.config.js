@@ -21,7 +21,7 @@ const config = {
                     {type: "revert", release: "patch"},
                 ],
                 parserOpts: {
-                    noteKeywords: ["BREAKING CHANGE", "BREAKING CHANGES"],
+                    noteKeywords: ["BREAKING CHANGE"],
                 },
             },
         ],
@@ -31,17 +31,61 @@ const config = {
                 preset: "conventionalcommits",
                 presetConfig: {
                     types: [
-                        {type: "feat", section: "Features"},
-                        {type: "fix", section: "Bug Fixes"},
-                        {type: "docs", hidden: false},
-                        {type: "style", hidden: false},
-                        {type: "refactor", hidden: false},
-                        {type: "perf", hidden: false},
-                        {type: "test", hidden: false},
-                        {type: "build", hidden: false},
-                        {type: "ci", hidden: false},
-                        {type: "chore", hidden: false},
-                        {type: "revent", hidden: false},
+                        {
+                            type: "feat",
+                            hidden: false,
+                            section: "Features",
+                        },
+                        {
+                            type: "fix",
+                            hidden: false,
+                            section: "Fixes",
+                        },
+                        {
+                            type: "docs",
+                            hidden: false,
+                            section: "Improvements",
+                        },
+                        {
+                            type: "style",
+                            hidden: false,
+                            section: "Improvements",
+                        },
+                        {
+                            type: "refactor",
+                            hidden: false,
+                            section: "Improvements",
+                        },
+                        {
+                            type: "perf",
+                            hidden: false,
+                            section: "Improvements",
+                        },
+                        {
+                            type: "test",
+                            hidden: false,
+                            section: "Improvements",
+                        },
+                        {
+                            type: "build",
+                            hidden: false,
+                            section: "Improvements",
+                        },
+                        {
+                            type: "ci",
+                            hidden: false,
+                            section: "Improvements",
+                        },
+                        {
+                            type: "chore",
+                            hidden: false,
+                            section: "Improvements",
+                        },
+                        {
+                            type: "revent",
+                            hidden: false,
+                            section: "Improvements",
+                        },
                     ],
                 },
             },
