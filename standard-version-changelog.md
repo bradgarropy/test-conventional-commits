@@ -4,21 +4,18 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## 1.1.0 (2021-01-15)
 
-
 ### Features
 
-* this is a new feature 1a0ae90
-
+-   this is a new feature 1a0ae90
 
 ### Bug Fixes
 
-* fix a bug 7054846
+-   fix a bug 7054846
 
 ### 1.0.1 (2021-01-15)
 
-
 ### Bug Fixes
 
-* fix a bug 7054846
+-   fix a bug 7054846
 
 ## 1.0.0 (2021-01-15)

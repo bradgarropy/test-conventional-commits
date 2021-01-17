@@ -1,29 +1,29 @@
 {
-  "name": "test-conventional-commits",
-  "version": "1.0.8",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "commit": "cz",
-    "release": "standard-version",
-    "semantic-release": "semantic-release"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@commitlint/cli": "^11.0.0",
-    "@commitlint/config-conventional": "^11.0.0",
-    "@semantic-release/changelog": "^5.0.1",
-    "@semantic-release/git": "^9.0.0",
-    "commitizen": "^4.2.2",
-    "cz-conventional-changelog": "^3.3.0",
-    "husky": "^4.3.7",
-    "semantic-release": "^17.3.2",
-    "standard-version": "^9.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bradgarropy/test-conventional-commits.git"
-  }
+    "name": "test-conventional-commits",
+    "version": "1.0.8",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "commit": "cz",
+        "release": "standard-version",
+        "semantic-release": "semantic-release"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@commitlint/cli": "^11.0.0",
+        "@commitlint/config-conventional": "^11.0.0",
+        "@semantic-release/changelog": "^5.0.1",
+        "@semantic-release/git": "^9.0.0",
+        "commitizen": "^4.2.2",
+        "cz-conventional-changelog": "^3.3.0",
+        "husky": "^4.3.7",
+        "semantic-release": "^17.3.2",
+        "standard-version": "^9.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bradgarropy/test-conventional-commits.git"
+    }
 }
