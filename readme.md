@@ -11,3 +11,4 @@ style
 refactor
 fix
 feature
+major version
