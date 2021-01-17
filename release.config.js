@@ -6,6 +6,8 @@ const config = {
             {
                 preset: "conventionalcommits",
                 releaseRules: [
+                    {breaking: true, release: "major"},
+                    {revert: true, release: "patch"},
                     {type: "feat", release: "minor"},
                     {type: "fix", release: "patch"},
                     {type: "docs", release: "patch"},
