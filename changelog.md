@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/bradgarropy/test-conventional-commits/compare/v1.3.1...v2.0.0) (2021-01-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **break:** treats breaking changes as major version bumps
+
+### Features
+
+* **break:** breaking feature ([fecc179](https://github.com/bradgarropy/test-conventional-commits/commit/fecc1793f55a5b5b02ec2ba014433ba0c92f4531))
+
 ### [1.3.1](https://github.com/bradgarropy/test-conventional-commits/compare/v1.3.0...v1.3.1) (2021-01-17)
 
 
