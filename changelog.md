@@ -1,3 +1,8 @@
+### [1.0.9](https://github.com/bradgarropy/test-conventional-commits/compare/v1.0.8...v1.0.9) (2021-01-17)
+
+
+* **release:** configure types to include in the release notes ([3d5ddb4](https://github.com/bradgarropy/test-conventional-commits/commit/3d5ddb4e7f49b331028bef80237d14248d429525))
+
 ### [1.0.8](https://github.com/bradgarropy/test-conventional-commits/compare/v1.0.7...v1.0.8) (2021-01-17)
 
 
