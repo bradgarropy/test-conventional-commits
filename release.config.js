@@ -96,7 +96,7 @@ const config = {
                 changelogFile: "changelog.md",
             },
         ],
-        "@semantic-release/npm",
+        ["@semantic-release/npm", {npmPublish: false}],
         [
             "@semantic-release/git",
             {
