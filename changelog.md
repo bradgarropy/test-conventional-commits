@@ -1,3 +1,16 @@
+## [2.3.0](https://github.com/bradgarropy/test-conventional-commits/compare/v2.2.0...v2.3.0) (2021-01-18)
+
+
+### Features
+
+* **feature:** first new feature ([981abdb](https://github.com/bradgarropy/test-conventional-commits/commit/981abdbdc44faa199c75e4560cc3cc74544bcc9c))
+* **feature:** second new feature ([a8a7d28](https://github.com/bradgarropy/test-conventional-commits/commit/a8a7d284849d06a3bbd8ff10fd897c81c3ca5020))
+
+
+### Improvements
+
+* **npm:** add npm publish flag to semantic release configuration ([e0ded82](https://github.com/bradgarropy/test-conventional-commits/commit/e0ded824e4f6f0a664f35ed422dfa237bded5508))
+
 ## [2.2.0](https://github.com/bradgarropy/test-conventional-commits/compare/v2.1.0...v2.2.0) (2021-01-17)
 
 
